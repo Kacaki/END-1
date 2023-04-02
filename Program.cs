@@ -1,8 +1,16 @@
 ﻿Console.Clear();
 
-string[] arr1 = new string[8] {"12345", "98", "Слово", "Дело", "Земля", "Ум", "67", "333"};
-string[] arr2 = new string[arr1.Length];
 
+
+
+void FillArray(string[] array)
+{
+    for (int i = 0; i < array.Length; i++)
+    {
+        array[i] = Console.ReadLine();
+    }
+    
+}
 
 
 void SecondArrayStatus(string[] arr1, string[] arr2)
@@ -29,8 +37,17 @@ void PrintArray(string[] array)
 }
 
 
+Console.WriteLine("задайте размер массива введя целое не отрицательное число: ");
+int k = Int32.Parse(Console.ReadLine());
+
+string[] arr1 = new string[k];
+string[] arr2 = new string[arr1.Length];
+
+
+Console.WriteLine("введите значения для каждого индекса массива: ");
+FillArray(arr1);
 Console.WriteLine("Выведим первоначальный массив: ");
 PrintArray(arr1);
 SecondArrayStatus(arr1, arr2);
-Console.WriteLine("Выведим массив длина элементов которого меньше или равна трём ");
+Console.WriteLine("Выведим массив длина элементов которого меньше или равна 3 ");
 PrintArray(arr2);
