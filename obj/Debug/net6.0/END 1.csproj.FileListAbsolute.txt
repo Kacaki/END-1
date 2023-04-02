@@ -1,0 +1,15 @@
+D:\Обучение на проджект-менеджер\Итоговая работа 1 семестр\END 1\bin\Debug\net6.0\END 1.exe
+D:\Обучение на проджект-менеджер\Итоговая работа 1 семестр\END 1\bin\Debug\net6.0\END 1.deps.json
+D:\Обучение на проджект-менеджер\Итоговая работа 1 семестр\END 1\bin\Debug\net6.0\END 1.runtimeconfig.json
+D:\Обучение на проджект-менеджер\Итоговая работа 1 семестр\END 1\bin\Debug\net6.0\END 1.dll
+D:\Обучение на проджект-менеджер\Итоговая работа 1 семестр\END 1\bin\Debug\net6.0\END 1.pdb
+D:\Обучение на проджект-менеджер\Итоговая работа 1 семестр\END 1\obj\Debug\net6.0\END 1.csproj.AssemblyReference.cache
+D:\Обучение на проджект-менеджер\Итоговая работа 1 семестр\END 1\obj\Debug\net6.0\END 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение на проджект-менеджер\Итоговая работа 1 семестр\END 1\obj\Debug\net6.0\END 1.AssemblyInfoInputs.cache
+D:\Обучение на проджект-менеджер\Итоговая работа 1 семестр\END 1\obj\Debug\net6.0\END 1.AssemblyInfo.cs
+D:\Обучение на проджект-менеджер\Итоговая работа 1 семестр\END 1\obj\Debug\net6.0\END 1.csproj.CoreCompileInputs.cache
+D:\Обучение на проджект-менеджер\Итоговая работа 1 семестр\END 1\obj\Debug\net6.0\END 1.dll
+D:\Обучение на проджект-менеджер\Итоговая работа 1 семестр\END 1\obj\Debug\net6.0\refint\END 1.dll
+D:\Обучение на проджект-менеджер\Итоговая работа 1 семестр\END 1\obj\Debug\net6.0\END 1.pdb
+D:\Обучение на проджект-менеджер\Итоговая работа 1 семестр\END 1\obj\Debug\net6.0\END 1.genruntimeconfig.cache
+D:\Обучение на проджект-менеджер\Итоговая работа 1 семестр\END 1\obj\Debug\net6.0\ref\END 1.dll
