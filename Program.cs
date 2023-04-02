@@ -1,4 +1,4 @@
-﻿
+﻿Console.Clear();
 
 string[] arr1 = new string[8] {"12345", "98", "Слово", "Дело", "Земля", "Ум", "67", "333"};
 string[] arr2 = new string[arr1.Length];
@@ -29,6 +29,8 @@ void PrintArray(string[] array)
 }
 
 
+Console.WriteLine("Выведим первоначальный массив: ");
 PrintArray(arr1);
 SecondArrayStatus(arr1, arr2);
+Console.WriteLine("Выведим массив длина элементов которого меньше или равна трём ");
 PrintArray(arr2);
